@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" height="30" />
+    <img src="https://www.facebook.com/profile.php?id=100048325305215&mibextid=ZbWKwL" height="30" />
   </a>
   &nbsp
   <a href="https://www.instagram.com/AbdulWahid130103">
@@ -31,10 +31,10 @@
 
 ### About Me 🧑
 
-- 👨‍💼 My name is `Mochammad Ardiansyah`
+- 👨‍💼 My name is `Abdul Wahid Safiudin`
 - 🏚️ I Live in `Mojokerto City, East Java`
-- 👶🏻 Born in `Surabaya, October 13th 2002`
-- 🎂 Currently, I am `20` years old
+- 👶🏻 Born in `Mojokerto, January 13th 2003`
+- 🎂 Currently, I am `21` years old
 - 👨‍🎓 I study `Informatics Management` at `Politeknik Negeri Malang`
 - 🌏 Languages I prefered to use are :
   - 🇮🇩 Indonesian
