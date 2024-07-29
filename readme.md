@@ -79,6 +79,6 @@
 
 ### Statistics 📋
 
-| GitHub Stats                                                                                               | Most Used Languages                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=mchardians&show_icons=true&theme=algolia" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchardians&langs_count=8&theme=algolia&layout=compact&hide=css,scss,less,html,hack" /> |
+| GitHub Stats                                                                                                     | Most Used Languages                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahid130103&show_icons=true&theme=algolia" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahid130103&langs_count=8&theme=algolia&layout=compact&hide=css,scss,less,html,hack" /> |
