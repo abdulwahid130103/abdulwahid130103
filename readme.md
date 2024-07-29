@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@820afb41-be2c-465a-9868-1fb7852db851">
-        <img src="https://wakatime.com/badge/user/820afb41-be2c-465a-9868-1fb7852db851.svg" alt="Total time coded since Aug 9 2023" />
+    <a href="https://wakatime.com/@bbfc810a-26a8-4830-aaba-fb20ce3a20a9">
+        <img src="https://wakatime.com/badge/user/bbfc810a-26a8-4830-aaba-fb20ce3a20a9.svg" alt="Total time coded since Aug 9 2023" />
     </a>
 </p>
 
